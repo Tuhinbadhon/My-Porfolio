@@ -15,20 +15,22 @@ h1{
 }
 section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 
 }
 .half-width{
-    width: 45%;
-    padding-left: 7%;
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
 }
 .half-width img{
 
-    width: 90%;
+    width: 100%;
 }
 .hire-button{
     text-decoration: dashed;
-    background-image: linear-gradient(tomato,orange);
+    background-image: linear-gradient(rgba(255, 166, 0, 0.876),tomato);
     padding: 10px 40px;
      border-radius: 5px ;
      color: white;
@@ -46,5 +48,11 @@ section{
 }
 .half-width p{
 
-    text-align: justify;
+    text-align:left;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
 }
