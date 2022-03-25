@@ -19,7 +19,7 @@ section{
 
 }
 .half-width{
-    width: 50%;
+    width: 45%;
     padding-left: 7%;
 }
 .half-width img{
@@ -43,4 +43,8 @@ section{
     background-image: url("img/dream-bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
+}
+.half-width p{
+
+    text-align: justify;
 }
