@@ -63,7 +63,9 @@ p{
     width: 40%;
     margin-left: 5%;
     margin-right: 2%;
-    padding: 40px 10px 60px 10px ;
+    padding-left: 25px;
+    padding-top: 0%;
+    padding-bottom: 70px;
 
     border-radius: 5px;
     box-shadow: 10px 10px 40px gray;
@@ -72,7 +74,7 @@ p{
 .experience-area{
     background-image: url("img/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;
+    background-position:  left;
 
 }
 #web-developer{
